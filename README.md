@@ -15,7 +15,7 @@ Include it in your C project:
 
 ## Functions
 ```c
-memset	void	       *ft_memset( void * memptr, int val, size_t num )	
+memset	void	      *ft_memset( void * memptr, int val, size_t num )	
 bzero	void         ft_bzero (void *b,size_t len)	
 memcpy            	ft_memcpy( void *dst, const void *src, size_t num )	
 memccpy	void       *ft_memccpy(void *s1, const void *s2, int c, size_t n)	
